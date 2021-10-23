@@ -1,20 +1,20 @@
 nav:
 
   - name: Home
-    id: #hero
+    link: "#hero"
 
   - name: About
-    id: #about
+    link: "#about"
 
   - name: Services
-    id: #services
+    link: "#services"
 
   - name: Portfolio
-    id: #portfolio
+    link: "#portfolio"
 
-  - name: Team
-    id: #team
+  # - name: Team
+  #   link: "#team"
 
   - name: Contact
-    id: #contact
+    link: "#contact"
     
