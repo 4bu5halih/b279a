@@ -1,5 +1,5 @@
 current directory: /home/rudi/Documents/Labs/Project/Jekyll/Project/ts/b279a/vendor/bundle/ruby/2.5.0/gems/sassc-2.4.0/ext
-/usr/bin/ruby.ruby2.5 -I /usr/lib64/ruby/site_ruby/2.5.0 -r ./siteconf20211023-7870-c659jc.rb extconf.rb
+/usr/bin/ruby.ruby2.5 -I /usr/lib64/ruby/site_ruby/2.5.0 -r ./siteconf20211023-11677-h0hs1l.rb extconf.rb
 creating Makefile
 
 current directory: /home/rudi/Documents/Labs/Project/Jekyll/Project/ts/b279a/vendor/bundle/ruby/2.5.0/gems/sassc-2.4.0/ext
@@ -77,4 +77,4 @@ linking shared-object sassc/libsass.so
 
 current directory: /home/rudi/Documents/Labs/Project/Jekyll/Project/ts/b279a/vendor/bundle/ruby/2.5.0/gems/sassc-2.4.0/ext
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 libsass.so ./.gem.20211023-7870-fr1bma/sassc
+/usr/bin/install -c -m 0755 libsass.so ./.gem.20211023-11677-170vedg/sassc
