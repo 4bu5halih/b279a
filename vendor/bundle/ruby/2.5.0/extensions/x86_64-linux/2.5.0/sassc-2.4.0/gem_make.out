@@ -1,11 +1,11 @@
-current directory: /home/rudi/Documents/Labs/Project/Jekyll/Project/Ts/vendor/bundle/ruby/2.5.0/gems/sassc-2.4.0/ext
-/usr/bin/ruby.ruby2.5 -I /usr/lib64/ruby/site_ruby/2.5.0 -r ./siteconf20211021-4519-1m0m1qs.rb extconf.rb
+current directory: /home/rudi/Documents/Labs/Project/Jekyll/Project/ts/b279a/vendor/bundle/ruby/2.5.0/gems/sassc-2.4.0/ext
+/usr/bin/ruby.ruby2.5 -I /usr/lib64/ruby/site_ruby/2.5.0 -r ./siteconf20211023-7870-c659jc.rb extconf.rb
 creating Makefile
 
-current directory: /home/rudi/Documents/Labs/Project/Jekyll/Project/Ts/vendor/bundle/ruby/2.5.0/gems/sassc-2.4.0/ext
+current directory: /home/rudi/Documents/Labs/Project/Jekyll/Project/ts/b279a/vendor/bundle/ruby/2.5.0/gems/sassc-2.4.0/ext
 make DESTDIR\= clean
 
-current directory: /home/rudi/Documents/Labs/Project/Jekyll/Project/Ts/vendor/bundle/ruby/2.5.0/gems/sassc-2.4.0/ext
+current directory: /home/rudi/Documents/Labs/Project/Jekyll/Project/ts/b279a/vendor/bundle/ruby/2.5.0/gems/sassc-2.4.0/ext
 make DESTDIR\=
 compiling ./libsass/src/ast.cpp
 compiling ./libsass/src/ast2c.cpp
@@ -75,6 +75,6 @@ compiling ./libsass/src/util_string.cpp
 compiling ./libsass/src/values.cpp
 linking shared-object sassc/libsass.so
 
-current directory: /home/rudi/Documents/Labs/Project/Jekyll/Project/Ts/vendor/bundle/ruby/2.5.0/gems/sassc-2.4.0/ext
+current directory: /home/rudi/Documents/Labs/Project/Jekyll/Project/ts/b279a/vendor/bundle/ruby/2.5.0/gems/sassc-2.4.0/ext
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 libsass.so ./.gem.20211021-4519-1t8rtk1/sassc
+/usr/bin/install -c -m 0755 libsass.so ./.gem.20211023-7870-fr1bma/sassc
